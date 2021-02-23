@@ -98,15 +98,4 @@ Authorization: Bearer <token> # replace <token> with the token that you received
 
 ![Test](https://github.com/Xinqi-Zhang-USF/sdlc-assignment4/blob/main/screenshot/7.png)
 
-### 8) Accept Offer
-GET http://localhost:8080/requests/api/requests/accept/John_0/Mike_1
-Authorization: Bearer <token> # replace <token> with the token that you received in Step 3
 
-![Test](https://github.com/Xinqi-Zhang-USF/sdlc-assignment4/blob/main/screenshot/8.png)
-
-### 9) Reject Offer
-GET http://localhost:8080/requests/api/requests/reject/John_0/Mike_3
-Authorization: Bearer <token> # replace <token> with the token that you received in Step 3
-
-![Test](https://github.com/Xinqi-Zhang-USF/sdlc-assignment4/blob/main/screenshot/9.png)
-  
