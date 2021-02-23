@@ -1,0 +1,3 @@
+io.hashimati.offerservice.services.$OfferServicesDefinitionClass
+io.hashimati.offerservice.rest.$OfferControllerDefinitionClass
+io.hashimati.offerservice.clients.$RequestsClient$InterceptedDefinitionClass

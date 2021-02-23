@@ -1,0 +1,6 @@
+io.hashimati.requestservice.rest.$RequestControllerDefinitionClass
+io.hashimati.requestservice.services.$RequestServiceDefinitionClass
+io.hashimati.requestservice.$SomeControllerDefinitionClass
+io.hashimati.requestservice.$Application$ApplicationEventListener$init1$InterceptedDefinitionClass
+io.hashimati.requestservice.$ApplicationDefinitionClass
+io.hashimati.requestservice.clients.$OffersClient$InterceptedDefinitionClass

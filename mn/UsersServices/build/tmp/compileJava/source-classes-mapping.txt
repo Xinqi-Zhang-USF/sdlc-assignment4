@@ -1,0 +1,18 @@
+io/hashimati/usersservices/SomeController.java
+ io.hashimati.usersservices.SomeController
+io/hashimati/usersservices/repository/UserRepository.java
+ io.hashimati.usersservices.repository.UserRepository
+io/hashimati/usersservices/services/UsersService.java
+ io.hashimati.usersservices.services.UsersService
+io/hashimati/usersservices/security/PasswordEncoder.java
+ io.hashimati.usersservices.security.PasswordEncoder
+io/hashimati/usersservices/security/AuthenticationProviderUserPassword.java
+ io.hashimati.usersservices.security.AuthenticationProviderUserPassword
+io/hashimati/usersservices/Application.java
+ io.hashimati.usersservices.Application
+io/hashimati/usersservices/domains/User.java
+ io.hashimati.usersservices.domains.User
+io/hashimati/usersservices/rest/UserController.java
+ io.hashimati.usersservices.rest.UserController
+io/hashimati/usersservices/constants/Roles.java
+ io.hashimati.usersservices.constants.Roles

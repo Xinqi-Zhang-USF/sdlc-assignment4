@@ -1,0 +1,6 @@
+io/hashimati/gateway/MyZuulFilter.java
+ io.hashimati.Gateway.MyZuulFilter
+io/hashimati/gateway/ResourceConfiguration.java
+ io.hashimati.Gateway.ResourceConfiguration
+io/hashimati/gateway/GatewayApplication.java
+ io.hashimati.Gateway.GatewayApplication
